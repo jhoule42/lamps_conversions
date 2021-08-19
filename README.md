@@ -14,7 +14,7 @@ Use the ```make_viirs``` scripts to simulate a fake viirs images from your lamps
 
 ### Simulating conversions scenario
 You can create a new scenario by adding a file in the ```/screnarios``` folder.
-The scripts conversions_plan.py calcul the sky intensity (zenith only) for the observer position.
+The scripts ```conversions_plan.py``` calcul the sky intensity (zenith only) for the observer position.
 
 ### Ploting results
 The following scripts are used to plot results from the modelisations
