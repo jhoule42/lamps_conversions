@@ -1,6 +1,5 @@
 # lamps_conversions
-
-Analyse lights conversions plans impact on light polution.
+Simulate lights conversions
 
 ### Getting started
 This repo is used to generate converions plans from the illumina model. For more inforrmation follow the Illumina user [guide](https://lx02.cegepsherbrooke.qc.ca/~aubema/index.php/Prof/Page).
